@@ -1,0 +1,4 @@
+D:\GIT\Airsim\AirSim\MavLinkCom\lib\x64\Debug\MavLinkCom.pdb
+D:\GIT\Airsim\AirSim\MavLinkCom\temp\MavLinkCom\x64\Debug\MavLinkCom.pdb
+D:\GIT\Quadcopter\Quadcopter\MavLinkCom\lib\x64\Debug\MavLinkCom.pdb
+D:\GIT\Quadcopter\Quadcopter\MavLinkCom\temp\MavLinkCom\x64\Debug\MavLinkCom.pdb

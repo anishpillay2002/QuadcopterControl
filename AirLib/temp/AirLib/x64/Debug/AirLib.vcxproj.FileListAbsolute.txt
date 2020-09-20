@@ -1,0 +1,4 @@
+D:\GIT\Airsim\AirSim\AirLib\lib\x64\Debug\AirLib.pdb
+D:\GIT\Airsim\AirSim\AirLib\temp\AirLib\x64\Debug\AirLib.pdb
+D:\GIT\Quadcopter\Quadcopter\AirLib\lib\x64\Debug\AirLib.pdb
+D:\GIT\Quadcopter\Quadcopter\AirLib\temp\AirLib\x64\Debug\AirLib.pdb
